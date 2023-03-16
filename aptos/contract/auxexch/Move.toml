@@ -3,8 +3,8 @@ name = 'aux'
 version = '1.0.0'
 
 [addresses]
-aux = '_'
-deployer = '_'
+aux = '0x8b7311d78d47e37d09435b8dc37c14afd977c5cfa74f974d45f0258d986eef53'
+deployer = '0x27a5ed998335d3b74ee2329bdb803f25095ca1137015a115e748b366c44f73be'
 
 [dev-addresses]
 # this address is the resource account from 0x5E7C3 and seed amm
